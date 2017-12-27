@@ -1,0 +1,14 @@
+footer {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+.input-group {
+    max-width: 250px;
+}
+
+.btn {
+    width: 200px;
+    border-radius: 12px;
+}
